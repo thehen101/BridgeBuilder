@@ -1,0 +1,16 @@
+[
+{
+  "modid": "BridgeBuilder",
+  "name": "BridgeBuilder",
+  "description": "A mod for automatically building bridges. View angles set intentionally non-silently.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://github.com/thehen101",
+  "updateUrl": "",
+  "authorList": ["thehen101"],
+  "credits": "Made by thehen101",
+  "logoFile": "BridgeBuilder-250px.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
